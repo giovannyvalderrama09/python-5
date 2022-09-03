@@ -1,2 +1,14 @@
-# python-5
-Listas, dupras clase 5 03/09/2022
+# Proyectos de python
+
+## Lo que se vera
+-listas
+
+-dupras
+
+Programado por: Giovanny valderrama
+
+
+
+
+
+
