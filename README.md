@@ -3,7 +3,7 @@
 ## Lo que se vera
 -listas
 
--dupras
+-tupras
 
 Programado por: Giovanny valderrama
 
